@@ -2,7 +2,7 @@
 
 ### Badge
 
-<img src="JavaScript/JS Badge.png" width="300"></img>
+<img src="https://github.com/srushti1hub/learn-to-code/blob/main/JavaScript/JS%20Badge.png" width="300"></img>
 
 ### Hackerrank Profile
 
