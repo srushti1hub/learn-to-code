@@ -2,7 +2,7 @@
 
 ### Badge
 
-<img src="https://github.com/srushti1hub/learn-to-code/blob/main/C%2B%2B/C%2B%2B%20Badge.png" width="300"></img>
+<img src="https://github.com/srushti1hub/learn-to-code/blob/main/Java/Java_Badge.png" width="300"></img>
 
 ### Hackerrank Profile
 
